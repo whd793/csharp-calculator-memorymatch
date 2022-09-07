@@ -1,0 +1,9 @@
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\bin\Lab05.dll.config
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\bin\Lab05.dll
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\bin\Lab05.pdb
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\obj\Debug\Lab05.dll
+\\myhome.itap.purdue.edu\myhome\lee2530\ecn.data\Desktop\Lab05\Lab05\obj\Debug\Lab05.pdb
